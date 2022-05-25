@@ -14,7 +14,7 @@
 		<selenium.version>2.53.0</selenium.version>
 		<!--plugin-version -->
 		<testng.version>6.9.10</testng.version>
-		<springframework.version>4.2.4.RELEASE</springframework.version>
+		<springframework.version>5.2.22.RELEASE</springframework.version>
 		<appium.version>3.2.0</appium.version>
 		<appium-support.version>1.0.5</appium-support.version>
 		<apache.poi.version>3.14</apache.poi.version>
